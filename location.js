@@ -1,4 +1,5 @@
 (function() {
-    window['location'] = 'https://letyselvp1.vercel.app/';
+    window['location'] = 'https://ab168188z.github.io/baidulets/';
 })();
+
 
